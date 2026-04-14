@@ -6,7 +6,7 @@ Building products, scripts and ideas that turn communities into experiences.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Barikelo&style=for-the-badge&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=Barikeloo&style=for-the-badge&color=blueviolet" />
 </p>
 
 ---
