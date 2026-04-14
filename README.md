@@ -5,33 +5,39 @@
 Building products, scripts and ideas that turn communities into experiences.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Barikelo&style=for-the-badge&color=blueviolet" />
+</p>
+
 ---
 
 ## 🧠 About Me
 
 I’m a software developer focused on building products around the FiveM ecosystem and web platforms.
 
-My journey started with pure curiosity and turned into a passion for creating tools, systems and businesses from scratch.
+My journey started with curiosity and turned into a passion for creating tools, systems and real products from scratch.
 
-Today I'm focused on:
-- Creating premium FiveM resources
-- Building startup-style projects
-- Developing scalable backend systems
-- Growing **ScriptLab**
-
-I love turning ideas into real products that people actually use.
+I enjoy turning ideas into usable and scalable solutions.
 
 ---
 
 ## 🧪 ScriptLab
 
-**ScriptLab** is my FiveM resource store where I design and develop scripts focused on performance, scalability and real server needs.
+**ScriptLab** is my FiveM resource store focused on quality, performance and real server needs.
 
 What defines my work:
-- Clean and maintainable code
-- Real problem solving
-- Long-term vision
-- Continuous improvement
+- Clean and maintainable code  
+- Performance-focused systems  
+- Real problem solving  
+- Long-term scalable design  
+
+---
+
+## 🔨 Currently Working On
+
+- Expanding ScriptLab  
+- Developing new FiveM resources  
+- Building: https://github.com/Barikeloo/YurestIonic  
 
 ---
 
@@ -60,7 +66,9 @@ What defines my work:
 ![Eclipse](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 📈 GitHub Activity & Stats
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Barikeloo&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -73,33 +81,31 @@ What defines my work:
 
 ---
 
-## ⚡ Latest Activity
+## ⭐ Featured Projects
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-💡 *(This section updates automatically with your latest commits)*
-
-To activate it later:
-https://github.com/Readme-Workflows/recent-activity
+🚧 Coming soon…
 
 ---
 
-## 🚀 Main Focus
+## 💭 Philosophy
 
-- Advanced FiveM systems
-- Custom frameworks & tools
-- Backend architectures
-- Web platforms & SaaS ideas
+I enjoy building products from scratch, solving real problems and creating tools that communities actually use.
+
+Consistency, curiosity and execution beat talent every time.
 
 ---
 
-## 🎯 2025 Goals
+## 🤝 Contact & Links
 
-- Grow ScriptLab into a known FiveM brand
-- Launch new public projects
-- Build products that generate recurring revenue
-- Keep learning & improving every day
+Soon™️
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Barikelo/Barikeloo/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
